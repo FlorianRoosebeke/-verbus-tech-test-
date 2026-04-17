@@ -1,0 +1,44 @@
+[
+  {
+    "station_id": "STAT-01",
+    "connector_id": 1,
+    "status": "Available",
+    "power_kw": 11,
+    "last_update": "2025-04-13T19:00:00+00:00"
+  },
+  {
+    "station_id": "STAT-01",
+    "connector_id": 2,
+    "status": "Available",
+    "power_kw": 11,
+    "last_update": "2025-04-08T04:00:00+00:00"
+  },
+  {
+    "station_id": "STAT-02",
+    "connector_id": 1,
+    "status": "Available",
+    "power_kw": 11,
+    "last_update": "2025-04-07T06:00:00+00:00"
+  },
+  {
+    "station_id": "STAT-02",
+    "connector_id": 2,
+    "status": "Faulted",
+    "power_kw": 11,
+    "last_update": "2025-04-09T08:00:00+00:00"
+  },
+  {
+    "station_id": "STAT-03",
+    "connector_id": 1,
+    "status": "Unavailable",
+    "power_kw": 11,
+    "last_update": "2025-04-09T22:00:00+00:00"
+  },
+  {
+    "station_id": "STAT-03",
+    "connector_id": 2,
+    "status": "Available",
+    "power_kw": 11,
+    "last_update": "2025-04-09T14:00:00+00:00"
+  }
+]
